@@ -1,0 +1,13 @@
+# Emissor interno — chave de acesso fica no HTML
+certificado.html
+
+# Originais pesados, não usados no site publicado
+assets/img/Fotos Profissionais/
+assets/QR CODE.jpeg
+
+# Pasta residual local
+arvoredo-web-page/
+
+.DS_Store
+Thumbs.db
+desktop.ini
