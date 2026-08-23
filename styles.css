@@ -178,6 +178,8 @@ footer{background:var(--navy);border-top:1px solid rgba(248,241,224,.1);padding:
 @media (max-width:900px){
   nav.desktop{display:none}
   .hamburger{display:flex}
+  .stats-row{flex-direction:column;align-items:center;text-align:center;gap:1.75rem}
+  .stat .lbl{margin:.4rem auto 0}
   .hero{padding-top:100px;min-height:auto}
   .hero-grid{grid-template-columns:1fr}
   .hero-photo{aspect-ratio:3/4;max-height:none;border-radius:28px}
